@@ -1,0 +1,258 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: "flames";
+    src: url(flames.ttf);
+}
+@font-face {
+	font-family:"menufont";
+	src: url(fonts/walburn light.ttf);
+}
+@font-face {
+	font-family:"metalclash";
+	src: url(../fonts/MetalClash.ttf);
+}
+.buytickets p {
+	color:white;
+}
+.black {
+	color:#000;
+}
+
+.foto-tickets img {
+	height: 100%;
+	width:100%;
+}
+	
+#formulier h4 {
+	color: black;
+}
+.buytickets img {
+	height: 80%;
+	width: 80%;
+	margin: 0 auto;
+}
+.foto-tickets {
+	width:100%;
+}
+.bandlijst li a {
+	background-color: #efeeeee;
+	
+}
+p {
+	font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:white;
+}.thumbnail {
+	border: 1px  #e1b75e ;
+}
+h2,h4,h3 {
+	color: white;
+}
+.band-booking-mail, .band-members {
+	color:white;
+}
+.caption h3 {
+	color:black;
+}
+.bandinfo img {
+	height:20%;
+	width:30%;
+}
+.buytickets p img {
+	margin: 0 auto;
+}
+.navbar-header a img {
+	height: 60px;
+	width:141px;
+	margin-top: -12px;
+	margin-left:5px;
+}
+
+#defaultNavbar1 {
+	margin-top:8px;
+}
+
+.titel {
+	font-family: "metalclash", Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: #E1B75E;
+	font-size: 45px;
+}
+.navigation ul li {
+	font-family: "menufont";
+	font-size: 20px;
+}
+
+.navbar {
+	border: none;
+}
+.titellabel {
+	font-family: "menufont";
+	font-size: 25px;
+	color:white;
+}
+.description{
+margin-top: 8px;
+	font-size:17px;
+}
+.carousel2 {
+width:90%;
+	margin: 0 auto;	
+}
+.center-menu ul li a {
+	color: #202020 !important;
+
+}
+
+.btn-buynow {
+	
+	margin: 0 auto;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-left: -7%;
+}
+.logo {
+	width:100%;
+	height:105px;
+	
+}
+
+.center {
+	width:263px;
+	height:82px;
+	margin:0 auto;
+}
+.active {
+	background-color: #ffffff !important;
+}
+.logo img {
+	width:263px;
+	height:82px;
+	margin:0 auto;
+}
+.navigation {
+	width:100%;
+	
+}
+
+nav {
+	background-color:#EFEFEF;
+}
+.center-menu {
+	width:800px;
+	margin:0 auto;
+	
+}
+
+#footer {
+	background-color: #2F2729;
+	color:white;
+	height:4rem;
+}
+.achtergrondkleur {
+	background-color: #E1B75E;
+}
+.achtergrondkleur2 {
+	background-color: #292021;
+}
+.navbar-default{
+	background-color: #E1B75E;
+	width:90%;
+	margin:0 auto;
+	margin-bottom:10px;
+}
+
+#footer a {
+	color:white;
+}
+#footer p {
+	padding-top:9px;
+}
+
+.icons i {
+	padding-right:5px;
+	color:white;
+}
+
+.albumcovers {
+	margin-top: 20px;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+	
+}
+.albumcovers div {
+	margin:7px;
+}
+.background-color {
+	color: #F6F6F6;
+}
+.albumcovers div img {
+	height:250px;
+	width:250px;
+}
+#labelposter {
+	height:425px;
+	width: 300px;
+	float:left;
+	padding-right: 20px;
+}
+.foto-shop {
+	height: 400px;
+	width: 400px;
+}
+.carousel {
+	width:90%;
+	margin: 0 auto;
+}
+.contactgegevens {
+	margin-top: 20px;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+	padding: 20px;
+	padding-bottom: 50px;
+}
+#adres {
+	padding-left:30px;
+	color:white;
+}
+#spotify {
+	margin-top:10px;
+}
+.slides {
+	width:1624px;
+	height:700px;
+}
+.bandfoto{
+	width:250px;
+	height:200px;
+	padding-right:20px;
+}
+.bandinfo {
+	display:flex;
+  flex-wrap: wrap;
+ 
+}
+ .band-info { 
+	 float: left;
+	 width: 420px;
+	 height: 236px;
+	 margin-left: 29px;
+	 border-left: 1px dashed #ddd;
+	 padding-left: 30px;
+	 position: relative; }
+
+ .band-info ul.band-members {
+	 font-size: 9pt;
+}
+.band-info ul.band-members li {
+	margin-bottom: 5px;
+}
+ .band-info ul.band-members li b { 
+	 display: inline-block; 
+	 width: 175px;
+	 vertical-align: top; }
+
+.overzicht {
+	margin-top: -20px;
+}
+

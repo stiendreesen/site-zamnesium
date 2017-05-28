@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: "flames";
+    src: url(flames.ttf);
+}
+.navbar-header a img {
+	height: 60px;
+	width:141px;
+	margin-top: -12px;
+	margin-left:5px;
+}
+.navbar-nav {
+	float: right;
+	margin-right: 5px;
+	
+}
+#defaultNavbar1 {
+	margin-top:8px;
+}
+
+.titel {
+	font-family: "flames", Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+.description{
+margin-top: 8px;
+	font-size:17px;
+}
+.btn-buynow {
+	
+	margin: 0 auto;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-left: -7%;
+
+}
+
+#footer {
+	background-color: #2F2729;
+	color:white;
+	height:4rem;
+}
+#footer a {
+	color:white;
+}
+#footer p {
+	padding-top:9px;
+}
+.icons i {
+	padding-right:5px;
+}
+.albumcovers {
+	margin-top: 20px;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.albumcovers div {
+	margin:7px;
+}
+#labelposter {
+	height:425px;
+		width: 300px;
+}
+.labelinfo {
+	display:flex;
+  flex-wrap: wrap;
+}
+.row {
+background-color: aqua  !important;
+}
