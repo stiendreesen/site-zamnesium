@@ -1,0 +1,90 @@
+/*!
+ * Start Bootstrap - Shop Item (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+
+.navbar-header a img {
+	height: 60px !important;
+	width:141px !important;
+	margin-top: -12px !important;
+	margin-left:5px !important;
+}
+#defaultNavbar1 {
+	margin-top:8px !important;
+}
+.navigation ul li {
+	font-family: "menufont" !important;
+	font-size: 20px !important;
+}
+
+.navbar {
+	border: none !important;
+}
+.center-menu ul li a {
+	color: #202020 !important;
+
+}
+.logo {
+	width:100% !important;
+	height:105px !important;
+	
+}
+
+.center {
+	width:263px !important;
+	height:100px !important;
+	margin:0 auto !important;
+}
+.logo img {
+	width:263px !important;
+	height:82px !important;
+	margin:0 auto !important;
+}
+.navigation {
+	width:100% !important;
+	
+}
+
+nav {
+	background-color:#EFEFEF !important;
+}
+.center-menu {
+	width:800px !important;
+	margin:0 auto !important;
+	
+}
+.achtergrondkleur {
+	background-color: #E9E9E9 !important;
+	padding-top:-20px;
+}
+.achtergrondkleur2 {
+	background-color: #292021 !important;
+}
+.navbar-default{
+	background-color: #E9E9E9 !important;
+	width:90% !important;
+	margin:0 auto !important;
+	margin-bottom:10px !important;
+}

@@ -64,14 +64,14 @@ h2,h4,h3 {
 	margin: 0 auto;
 }
 .navbar-header a img {
-	height: 60px;
-	width:141px;
-	margin-top: -12px;
-	margin-left:5px;
+	height: 60px !important;
+	width:141px !important;
+	margin-top: -12px !important;
+	margin-left:5px !important;
 }
 
 #defaultNavbar1 {
-	margin-top:8px;
+	margin-top:8px !important;
 }
 
 .titel {
@@ -80,12 +80,12 @@ h2,h4,h3 {
 	font-size: 45px;
 }
 .navigation ul li {
-	font-family: "menufont";
-	font-size: 20px;
+	font-family: "menufont" !important;
+	font-size: 20px !important;
 }
 
 .navbar {
-	border: none;
+	border: none !important;
 }
 .titellabel {
 	font-family: "menufont";
@@ -131,16 +131,16 @@ width:90%;
 	margin:0 auto;
 }
 .navigation {
-	width:100%;
+	width:100% !important;
 	
 }
 
 nav {
-	background-color:#EFEFEF;
+	background-color:#EFEFEF !important;
 }
 .center-menu {
-	width:800px;
-	margin:0 auto;
+	width:800px !important;
+	margin:0 auto !important;
 	
 }
 
@@ -150,7 +150,7 @@ nav {
 	height:4rem;
 }
 .achtergrondkleur {
-	background-color: #E9E9E9;
+	background-color: #E9E9E9 !important;
 }
 .achtergrondkleur2 {
 	background-color: #292021;
