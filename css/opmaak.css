@@ -147,7 +147,7 @@ nav {
 #footer {
 	background-color: #292021;
 	color:white;
-	height:4rem;
+	height:6rem;
 }
 .achtergrondkleur {
 	background-color: #E9E9E9;
@@ -171,6 +171,7 @@ nav {
 
 .icons i {
 	padding-right:5px;
+	padding-bottom:20px;
 	color:white;
 }
 
