@@ -23,7 +23,11 @@
     padding: 9px;
     color: #333;
 }
-
+#footer {
+	background-color: #2F2729;
+	color:white;
+	height:4rem;
+}
 
 .navbar-header a img {
 	height: 60px !important;
