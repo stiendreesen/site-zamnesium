@@ -145,7 +145,7 @@ nav {
 }
 
 #footer {
-	background-color: #2F2729;
+	background-color: #292021;
 	color:white;
 	height:4rem;
 }
@@ -156,7 +156,7 @@ nav {
 	background-color: #292021;
 }
 .navbar-default{
-	background-color: #E9E9E9;
+	background-color: #E9E9E9 !important;
 	width:90%;
 	margin:0 auto;
 	margin-bottom:10px;
