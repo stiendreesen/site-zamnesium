@@ -18,7 +18,9 @@
 .black {
 	color:#000;
 }
-
+.disclaimer {
+	height:800px;
+}
 .foto-tickets img {
 	height: 100%;
 	width:100%;
