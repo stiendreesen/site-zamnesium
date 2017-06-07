@@ -274,10 +274,14 @@ nav {
 .bandpic {
 justify-content: center;
 	width: 100%;
-	margin-left: 30px;
+	margin-left: 60px;
+}
+.bandrow {
+	justify-content: center;
 }
 .bandpic img {
 	margin: 0 auto;
+	height: 150px;
 }
 .overzicht {
 	margin-top: -20px;
