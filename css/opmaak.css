@@ -18,6 +18,7 @@
 .black {
 	color:#000;
 }
+
 .disclaimer {
 	height:800px;
 }
@@ -194,6 +195,20 @@ nav {
 	height:250px;
 	width:250px;
 }
+.shopitems {
+	margin-top: 20px;
+  display:flex;
+  flex-wrap: wrap;
+ justify-content: center;
+	
+}
+.shopitems div {
+	margin-bottom: 20px;
+}
+.shopitems div img {
+	height:250px;
+	width:250px;
+}
 #labelposter {
 	height:425px;
 	width: 300px;
@@ -256,7 +271,14 @@ nav {
 	 display: inline-block; 
 	 width: 175px;
 	 vertical-align: top; }
-
+.bandpic {
+justify-content: center;
+	width: 100%;
+	margin-left: 30px;
+}
+.bandpic img {
+	margin: 0 auto;
+}
 .overzicht {
 	margin-top: -20px;
 }
